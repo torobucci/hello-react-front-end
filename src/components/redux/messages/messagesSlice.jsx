@@ -23,6 +23,5 @@ const messagesSlice = createSlice({
   },
 });
 
-// const { reserveRocket, cancelReservation } = rocketsSlice.actions;
 export { fetchMessages };
 export default messagesSlice.reducer;
