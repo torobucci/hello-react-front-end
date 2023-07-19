@@ -4,7 +4,8 @@
 
 # 📗 Table of Contents
 
-- [📖 hello-react-front-end](#-hello-react-front-end-)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 hello-react-front-end ](#-hello-react-front-end-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -13,8 +14,7 @@
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
-  - [👥 Authors ](#-authors-)
-  - [👥 Kevin Toro](#-kevin-toro)
+  - [👥 Author : Kevin Toro](#-author--kevin-toro)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -26,9 +26,9 @@
 # 📖 hello-react-front-end <a name=" hello-react-front-end"></a>
 
    **hello-react-front-end** is a simple react app that uses Raila API to display greetings in different languages
-   
+
    Checkout the [Rails-API](https://github.com/torobucci/hello-rails-back-end) used.
-  
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -138,7 +138,7 @@ I would like to thank [Microverse](https://github.com/microverseinc) for providi
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/torobucci/Portfolio-finish-mobile-version/blob/main/MIT-LICENSE.txt) licensed.
+This project is [MIT](./MIT-LICENSE.txt) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
